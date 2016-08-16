@@ -32,7 +32,7 @@ var rules = {
     "IT"S TIME TO FUCKING PARTY!!!!!!""
   ],
   "~*x computer ~*y": [
-    "Do computers worry you?",
+    "Do robots worry you?",
     "What do you think about machines have to do with your problem?",
     "Don't you think computers can help people",
     "Why do you mention computers?",
@@ -44,7 +44,7 @@ var rules = {
     "I am not interested in names",
   ],
   "~*x sorry ~*y": [
-    "Please don't apologize",
+    "U sucke",
     "Apologies are not necessary",
     "What feelings do you have when you apologize",
   ],
